@@ -101,7 +101,4 @@ prf_constructor/
 
 См. [USER_GUIDE.md](USER_GUIDE.md) для подробной инструкции по использованию.
 
-## Лицензия
-
-MIT License
 
